@@ -15,7 +15,7 @@ This project implements a disease prediction system using a Stacking Classifier 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
+- [Technologies Used](#technologies-used)
 
 ## Project Overview
 
@@ -98,13 +98,4 @@ A user interface is created using Gradio to allow users to interact with the tra
 - Data Visualization: matplotlib, seaborn
 - Web Framework: (e.g., Flask, Streamlit) *(Update based on your tech stack)*
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-1. Fork it
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a pull request
 
